@@ -1,4 +1,5 @@
 @app
+horse-t7a
 
 @static
 
