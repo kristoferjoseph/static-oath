@@ -1,2 +1,0 @@
-# static-oath
-Begin app
